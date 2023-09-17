@@ -12,8 +12,8 @@ public class GerenciadoraContasTest {
 	
 	private GerenciadoraContas gerContas;
 	
-	int idConta01=1;
-	int idConta02=2;
+	private int idConta01=1;
+	private int idConta02=2;
 	
 	
 	
